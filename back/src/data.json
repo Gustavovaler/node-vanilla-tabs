@@ -1,0 +1,75 @@
+[
+    {
+        "id":1,
+        "foto":"auto3.jpg",
+        "marca": "Nissan",
+        "modelo": "Barbie",
+        "color": "rosa",
+        "precio": 120000,
+        "cilindrada": 2500
+    },{
+        "id":2,
+        "foto":"auto1.jpg",
+        "marca": "Honda",
+        "modelo": "Prime",
+        "color": "blanco",
+        "precio": 125000,
+        "cilindrada":2300
+    },{
+        "id":3,
+        "foto":"auto4.jpg",
+        "marca": "Aston",
+        "modelo": "Luccia",
+        "color": "Plate",
+        "precio":152200,
+        "cilindrada":2800
+    },{
+        "id":4,
+        "foto":"auto9.jpg",
+        "marca": "Aston",
+        "modelo": "Vanguard",
+        "color":"azul plata",
+        "precio":124000,
+        "cilindrada": 1800
+    },{
+        "id":5,
+        "foto":"auto4.jpg",
+        "marca": "Nissan",
+        "modelo": "Amarello",
+        "color": "amarillo",
+        "precio":135000,
+        "cilindrada":2300
+    },{
+        "id":6,
+        "foto": "auto6.jpg",
+        "marca": "Nissan",
+        "modelo": "Libra",
+        "color":"verde",
+        "precio":125000,
+        "cilindrada":2000
+    },{
+        "id":3,
+        "foto":"auto5.jpg",
+        "marca": "Aston",
+        "modelo": "Luccia",
+        "color": "Plate",
+        "precio":152200,
+        "cilindrada":2800
+    },{
+        "id":2,
+        "foto":"auto6.jpg",
+        "marca": "Honda",
+        "modelo": "Prime",
+        "color": "Azul Claro",
+        "precio": 125000,
+        "cilindrada":2300
+    },{
+        "id":2,
+        "foto":"auto8.jpg",
+        "marca": "Honda",
+        "modelo": "Prime",
+        "color": "Fuxia",
+        "precio": 125000,
+        "cilindrada":2300
+    }
+]
